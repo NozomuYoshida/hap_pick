@@ -1,7 +1,6 @@
 #include <Wire.h>
 
 #define MMA8452_ADRS 0x1C
-
 #define MMA8452_OUT_X_MSB 0x01
 #define MMA8452_XYZ_DATA_CFG 0x0E
 #define MMA8452_CTRL_REG1 0x2A
